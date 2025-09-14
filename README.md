@@ -1,7 +1,6 @@
 # Temperature-Converter-WebApp
-A simple and interactive web application that allows users to convert temperatures between Celsius and Fahrenheit. Developed with HTML, CSS, and JavaScript, the tool features an intuitive interface for real-time conversion in both directions.
 
-# Temperature Converter Web App
+A simple and interactive web application that allows users to convert temperatures between Celsius and Fahrenheit. Developed with HTML, CSS, and JavaScript, the tool features an intuitive interface for real-time conversion in both directions.
 
 A user-friendly web application to convert temperatures between **Celsius** and **Fahrenheit** using HTML, CSS, and JavaScript. Instantly see conversions as you enter values—perfect for students, developers, or anyone needing a quick and responsive temperature calculator.
 
